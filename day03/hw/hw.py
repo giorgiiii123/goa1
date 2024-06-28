@@ -46,6 +46,7 @@ future_me=13+10
 # davaleba4 
 
 about="ramdeni wkali dalia daviTma ak ro iko"
+amou_of_wather = 5
 
 
 
