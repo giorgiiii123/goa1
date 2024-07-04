@@ -104,19 +104,25 @@ cvladi = "cvladi inaxavs informacias,"
 print(cvladi)
 
 # davaleba8?
+name = "mercedes"
+
+engine = 5.1
+print(name+" "+str(engine))
+
+
+
 
 
 
 # davaleba9
 
-wvaleba= "daviti mawvalebs iserogorc patara bavsebs atxovnineben xolme kanpets igi aris daundobeli"
+wvaleba = "daviti mawvalebs iserogorc patara bavsebs atxovnineben xolme kanpets igi aris daundobeli"
 print(wvaleba)
 
 
 
-# football"kalatburti"
-# kalatburti"footbaall"
-
+football="kalatburti"
+kalatburti=football
 
 
 
